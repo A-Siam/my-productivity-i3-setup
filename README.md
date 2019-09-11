@@ -36,7 +36,7 @@ we can follow each one's manual to install them or you can just run **install.sh
 
 **Before installation: make sure you read at least the comments of install.sh file (IT'S A MUST)**
 
-As mentioned above you can install each one of these wonderful pieces of software manually or you can just follow this:
+As mentioned above you can install each one of these packages manually or you can just follow this:
 
 ### Ubuntu Users:
 
