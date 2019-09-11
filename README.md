@@ -1,8 +1,6 @@
 # My productivity i3-wm setup
 
-### Table of contents:
 
-* TOC {:toc}
 
 ## Introduction:
 
