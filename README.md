@@ -105,4 +105,4 @@ where your toggle method can be
 
 ------
 
-Thanks for passing by, any contribution or suggestions except gaps or transparencies (remember it was made for productivity at the first place with no visual destruction (terminal is ok more than that is too much for me) ) are more than welcomed.
+Thanks for passing by, any contribution or suggestions except gaps or transparencies **(remember it was made for productivity at the first place with no visual destruction (terminal is ok more than that is too much for me)** ) are more than welcomed.
