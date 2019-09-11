@@ -34,14 +34,12 @@ we can follow each one's manual to install them or you can just run **install.sh
 
 ## installation: 
 
-**Before installation: make sure you read at least the comments of install.sh file (IT'S A MUST)**
-
 As mentioned above you can install each one of these packages manually or you can just follow this:
 
 ### Ubuntu Users:
 
 ```
-sudo ./install.sh
+sudo ./install.sh <your-wallpaper-path>
 ```
 
 ### Others:
@@ -51,7 +49,7 @@ Comment out aptitude's lines then install **i3, polybar, compton, gnome-terminal
 then
 
 ```
-sudo ./install.sh
+sudo ./install.sh <your-wallpaper-path>
 ```
 
 *Optional:* you can **load my gnome-terminal profile** using **dconf** 
