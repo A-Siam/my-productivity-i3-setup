@@ -54,9 +54,9 @@ then
 sudo ./install.sh <your-wallpaper-path>
 ```
 
-*Optional:* you can **load my gnome-terminal profile** using **dconf** refering to [this article](https://gist.github.com/reavon/0bbe99150810baa5623e5f601aa93afc)
+*Optional:* you can **load my gnome-terminal profile** using **dconf** refering to [this gist](https://gist.github.com/reavon/0bbe99150810baa5623e5f601aa93afc)
 
-*Optional:* for those who use multible language layouts in my case arabic + english you can execute this command
+*Optional:* for those who use **multible keyboard layouts** in my case arabic + english you can execute this command
 ```
 echo "exec_always setxkbmap -model pc104 -layout us,ar -option <your-toggle-method>" >> $HOME/.config/i3/config
 ```
