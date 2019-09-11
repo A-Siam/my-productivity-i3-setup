@@ -1,0 +1,20 @@
+[:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+use-transparent-background=true
+cursor-foreground-color='rgb(0,0,0)'
+highlight-foreground-color='rgb(55,25,147)'
+scrollbar-policy='never'
+scroll-on-keystroke=false
+background-color='rgb(28,27,27)'
+cursor-shape='block'
+visible-name='A-Siam'
+use-theme-colors=false
+cursor-background-color='rgb(139,113,217)'
+background-transparency-percent=37
+palette=['rgb(51,51,51)', 'rgb(204,0,0)', 'rgb(166,132,247)', 'rgb(196,160,0)', 'rgb(52,101,164)', 'rgb(117,80,123)', 'rgb(6,152,154)', 'rgb(211,215,207)', 'rgb(136,128,124)', 'rgb(241,93,34)', 'rgb(115,196,143)', 'rgb(255,206,81)', 'rgb(72,185,199)', 'rgb(173,127,168)', 'rgb(52,226,226)', 'rgb(238,238,236)']
+highlight-background-color='rgb(253,218,218)'
+foreground-color='rgb(255,220,241)'
+use-theme-transparency=false
+audible-bell=true
+
+[/]
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9']
