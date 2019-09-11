@@ -2,7 +2,7 @@
 
 ### Table of contents:
 
-{:toc}
+* TOC {:toc}
 
 ## Introduction:
 
