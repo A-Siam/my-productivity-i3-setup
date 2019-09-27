@@ -261,6 +261,7 @@
 	exec --no-startup-id polybar example" > $HOME/.config/i3/config
 	
 	#add polybar config
+	mkdir -p $HOME/.config/polybar
 	mv -f ../../config $HOME/.config/ploybar/
 	
 	# Done <3
